@@ -1,0 +1,9 @@
+## Prepare Data
+
+Download dataset
+
+You can download each group in NLOS-Passive through the link below. Please note that a compressed package (.zip or .z01+.zip) represents a group of measured data.
+
+link：https://pan.baidu.com/s/19Q48BWm1aJQhIt6BF9z-uQ 
+
+code：j3p2
